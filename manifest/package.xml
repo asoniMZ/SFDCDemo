@@ -32,5 +32,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    
+     <types>
+        <members>Trip__c</members>
+        <name>CustomObject</name>
+    </types>
     <version>56.0</version>
 </Package>
